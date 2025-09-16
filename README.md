@@ -1,0 +1,2 @@
+# Criminal-Identification-Using-ML-And-Face-Recognition-Techniques-
+This project, titled "Criminal Identification System Using Machine Learning and Face Recognition," is an advanced solution designed to modernize and improve law enforcement's ability to identify individuals from visual data. It leverages state-of-the-art deep learning and computer vision techniques to create a robust and automated system.
